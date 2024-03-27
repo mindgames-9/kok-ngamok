@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>HTML Homework</title>
+    </head>
+    <style>div {border: 1px solid black;}</style>
+
+
+    <body style = "background-color: #8EE4AF;">
+        <h1 style = "color: #05386B; font-family: 'Lucida Handwriting';">My first attempt at HTML</h1>
+        <div></div>
+        <p></p>
+        <b style = "font-family: 'Arial';">Using proper HTML tags</b>
+        <p> This is my very first attempt at using HTML</p>
+        <div></div>
+        <p></p>
+        <b style = "font-family: 'Arial';"> I love HTML because: </b>
+        <p>  < I feel very excited when learning this subject > </p>
+        <p> < I can make web pages using HTML codes > </p>
+        <p> < It is fun > </p>
+        <p></p>
+        <b style = "color: white">That's all from me, Have a great day!</b>
+        <div></div>
+
+        <p style = "font-family: 'Brush Script MT' ;"> &copy HomeWork for subject CSC264</p
+
+
+    </body>
+</html>
