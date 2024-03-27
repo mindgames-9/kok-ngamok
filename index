@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>HTML Homework</title>
+    </head>
+    <style>div {border: 1px solid black;}</style>
+
+
+    <body style = "background-color: #8EE4AF;">
+        <h1 style = "color: #05386B; font-family: 'Lucida Handwriting';">My first attempt at HTML</h1>
+        <div></div>
+
+    </body>
+</html>
